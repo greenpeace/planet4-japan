@@ -13,6 +13,5 @@
 			"@core:language",
 			"@install:plugin-wpimport"
 		]
-
 	}
 }
