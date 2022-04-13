@@ -1,14 +1,14 @@
 {
-    "name": "greenpeace/planet4-japan",
-    "description": "Greenpeace P4 Japan",
-    "license": "MIT",
-    "require": {
-        "greenpeace/planet4-child-theme-japan" : "dev-develop"
-    },
-    "scripts": {
-        "core:language": "wp language core install ja; wp language core activate ja",
-        "site:custom": [
-            "@core:language"
-        ]
-    }
+  "name": "greenpeace/planet4-japan",
+  "description": "Greenpeace P4 Japan",
+  "license": "MIT",
+  "require": {
+    "greenpeace/planet4-child-theme-japan" : "dev-develop"
+  },
+  "scripts": {
+    "core:language": "wp language core install ja; wp language core activate ja",
+    "site:custom": [
+      "@core:language"
+    ]
+  }
 }
