@@ -56,6 +56,7 @@ job_environments:
     WP_DB_NAME: planet4-japan_wordpress_master
     WP_STATELESS_BUCKET: planet4-japan-stateless
 
+
 commands:
   approve_job:
     description: "Approve an on-hold job."
