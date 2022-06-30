@@ -3,7 +3,8 @@
   "description": "Greenpeace P4 Japan",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-child-theme-japan" : "dev-develop"
+    "greenpeace/planet4-child-theme-japan" : "dev-develop",
+    "greenpeace/planet4-gpjp-plugin-blocks": "dev-main"
   },
   "scripts": {
     "core:language": "wp language core install ja; wp language core activate ja",
