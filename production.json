@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/planet4-child-theme-japan" : "v0.*",
+    "greenpeace/planet4-child-theme-japan" : "v0.18.0",
     "greenpeace/planet4-gpjp-plugin-blocks": "v0.*"
   }
 }
