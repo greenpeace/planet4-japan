@@ -1,6 +1,0 @@
-{
-  "require": {
-    "google/apiclient": "2.14.0",
-    "google/auth": "1.10.0"
-  }
-}
