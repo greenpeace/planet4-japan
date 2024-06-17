@@ -4,7 +4,8 @@
   "license": "MIT",
   "require": {
     "greenpeace/planet4-child-theme-japan" : "dev-main",
-    "greenpeace/planet4-gpjp-plugin-blocks": "dev-main"
+    "greenpeace/planet4-gpjp-plugin-blocks": "dev-main",
+    "wpackagist-plugin/wp-import-export-lite": "v3.9.*"
   },
   "scripts": {
     "core:language": "wp language core install ja; wp language core activate ja",
